@@ -5,7 +5,7 @@ https://www.microsoft.com/en-us/research/project/project-malmo/ is the plugin re
 https://github.com/melvinzhang/malmopy uses Python + Malmo to teach some basic robotics algorithms like maze
 solving. 
 
-Develop more missions such as simulating how a robotic vacuum cleaner works (learns a new place and also clean it at the same time).
+Develop more missions such as simulating a robotic vacuum cleaner which covers all locations of a new area with fewest moves (online graph exploration).
 
 # Analysis of public dataset
 
