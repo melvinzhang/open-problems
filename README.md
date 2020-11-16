@@ -7,7 +7,7 @@ For example, figure out what is the fewest number of taxis to service all the tr
 See https://data.gov.sg/ for other datasets from the Singapore. 
 
 
-# Opponent AI for Games
+# Adversarial search
 
 https://magarena.github.io/ uses the Monte-Carlo Tree search AI to play Magic: the Gathering
 
