@@ -23,7 +23,7 @@ Each task must not wait more than T units of time for a worker.
 
 # Route planning for multiple robots
 
-Plan the movement of m robots in awarehouse that avoids deadlocks and completes all delivery tasks in the minimum time.
+Plan the movement of m robots in a warehouse that avoids deadlocks and completes all delivery tasks in the minimum time.
 
 
 # Robotic missions in Minecraft
