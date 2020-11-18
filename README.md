@@ -11,8 +11,9 @@ See https://data.gov.sg/ for other datasets from the Singapore.
 
 https://magarena.github.io/ uses the Monte-Carlo Tree search AI to play Magic: the Gathering
 
-Explore ways to make the AI stronger and play a better game.
+https://github.com/melvinzhang/ismcts use ISMCTS to play simplified Knockout Whist
 
+Explore ways to make the AI stronger and play a better game.
 
 # Online Task Assignment
 
@@ -41,3 +42,25 @@ https://github.com/melvinzhang/malmopy uses Python + Malmo to teach some basic r
 solving.
 
 Develop more missions such as simulating a robotic vacuum cleaner which covers all locations of a new area with fewest moves (online graph exploration).
+
+
+# Faster Max-gap data structure
+
+See https://github.com/melvinzhang/max-gap-problem
+
+
+# Halting complexity of mathematical statements
+
+See https://github.com/melvinzhang/halting-complexity
+
+
+# Lua scripting for Liberation Circuit
+
+See https://github.com/melvinzhang/liberation-circuit for Lua script of missions
+
+Extend Lua scripting for unit AI
+
+
+# Algorithms for the counter machine
+
+See https://github.com/melvinzhang/counter-machine
