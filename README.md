@@ -26,6 +26,13 @@ Each task must not wait more than T units of time for a worker.
 Plan the movement of m robots in a warehouse that avoids deadlocks and completes all delivery tasks in the minimum time.
 
 
+# Route planning for a robot vacuum cleaner
+
+Plan the movement of a single robot vacuum cleaner to clean an area in the shortest time.
+
+The area may be known or unknown. Should account for direction of the robot as most robots can either turn or move forward.
+
+
 # Robotic missions in Minecraft
 
 https://www.microsoft.com/en-us/research/project/project-malmo/ is the plugin released by MS. It turns Minecraft into a robot simulator.
