@@ -33,6 +33,9 @@ Plan the movement of a single robot vacuum cleaner to clean an area in the short
 
 The area may be known or unknown. Should account for direction of the robot as most robots can either turn or move forward.
 
+References:
+* [Competitive on-line coverage of grid environments by a mobile robot, 2003, Computational Geometry](https://www.sciencedirect.com/science/article/pii/S0925772102001104)
+* [Improving robotic vacuum cleaners: Minimising the time needed for complete dust removal, 2018, Bachelor's Thesis](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1213349&dswid=3596)
 
 # Robotic missions in Minecraft
 
