@@ -38,7 +38,7 @@ The area may be known or unknown. Should account for direction of the robot as m
 
 References:
 * [Competitive on-line coverage of grid environments by a mobile robot, Computational Geometry 2003](https://www.sciencedirect.com/science/article/pii/S0925772102001104)
-* [Improving robotic vacuum cleaners: Minimising the time needed for complete dust removal, Bachelor's Thesis 2018](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1213349&dswid=3596)
+* [Improving robotic vacuum cleaners: Minimising the time needed for complete dust removal, KTH Bachelor's Thesis 2018](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1213349&dswid=3596)
 
 # Robotic missions in Minecraft
 
