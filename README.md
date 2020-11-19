@@ -26,6 +26,9 @@ Each task must not wait more than T units of time for a worker.
 
 Plan the movement of m robots in a warehouse that avoids deadlocks and completes all delivery tasks in the minimum time.
 
+References:
+* [Modified Banker's algorithm for scheduling in multi-AGV systems, CASE 2011](https://ieeexplore.ieee.org/document/6042433)
+* [Multi-AGVs Conflict-Free Routing and Dynamic Dispatching Strategies for Automated Warehouses, ICMWT 2018](https://link.springer.com/chapter/10.1007/978-981-13-1059-1_26)
 
 # Route planning for a robot vacuum cleaner
 
@@ -34,8 +37,8 @@ Plan the movement of a single robot vacuum cleaner to clean an area in the short
 The area may be known or unknown. Should account for direction of the robot as most robots can either turn or move forward.
 
 References:
-* [Competitive on-line coverage of grid environments by a mobile robot, 2003, Computational Geometry](https://www.sciencedirect.com/science/article/pii/S0925772102001104)
-* [Improving robotic vacuum cleaners: Minimising the time needed for complete dust removal, 2018, Bachelor's Thesis](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1213349&dswid=3596)
+* [Competitive on-line coverage of grid environments by a mobile robot, Computational Geometry 2003](https://www.sciencedirect.com/science/article/pii/S0925772102001104)
+* [Improving robotic vacuum cleaners: Minimising the time needed for complete dust removal, Bachelor's Thesis 2018](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1213349&dswid=3596)
 
 # Robotic missions in Minecraft
 
