@@ -70,3 +70,9 @@ Extend Lua scripting for unit AI
 # Algorithms for the counter machine
 
 See https://github.com/melvinzhang/counter-machine
+
+# Interactive Emergent Narrative
+
+A simulation where you can take part in stories that emerge from the interaction of characters.
+
+See https://www.jamesryan.world/projects#/talktown/ and https://latitude.io/ai-dungeon/
