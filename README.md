@@ -75,4 +75,6 @@ See https://github.com/melvinzhang/counter-machine
 
 A simulation where you can take part in stories that emerge from the interaction of characters.
 
-See https://www.jamesryan.world/projects#/talktown/ and https://latitude.io/ai-dungeon/
+Some examples are https://www.jamesryan.world/projects#/talktown/ and https://latitude.io/ai-dungeon/
+
+See https://tvtropes.org/pmwiki/pmwiki.php/Main/EmergentNarrative for more examples.
